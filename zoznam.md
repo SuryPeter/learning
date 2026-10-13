@@ -1,1 +1,6 @@
-"Novì zoznam" 
+"Novì zoznam"
+
+
+
+"priadný riadok do zoznamu"
+

@@ -1,2 +1,4 @@
-"Toto je zmena cez main"
+
+"Ahoj. Toto je zmena, ktorá vyvolala chybu cez main"
+
 

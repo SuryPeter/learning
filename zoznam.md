@@ -1,0 +1,1 @@
+"Novì zoznam" 

@@ -1,2 +1,2 @@
-"Toto je zmena"
+"Ahoj. Toto je zmena"
 

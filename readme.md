@@ -1,2 +1,2 @@
-"Toto je zmena"
+"Toto je zmena cez main"
 

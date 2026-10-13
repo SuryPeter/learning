@@ -1,1 +1,4 @@
-"Novì zoznam" 
+"Novì zoznam"
+
+Riadok pridaný kolegom
+

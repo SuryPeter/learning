@@ -1,2 +1,2 @@
-pizda more
+toto napisal kolega
 

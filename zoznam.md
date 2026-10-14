@@ -1,2 +1,2 @@
-super veci
+toto som napisal ja
 
